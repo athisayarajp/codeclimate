@@ -7,7 +7,7 @@ module CC
       FILE_NAME = "/config.yml".freeze
 
       DEFAULT_CONFIG = {
-        "check-version" => true,
+        "check-version" => false,
       }.freeze
 
       # Config entries
